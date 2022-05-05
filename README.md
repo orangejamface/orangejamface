@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orangejamface
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning using The Odin Project
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me orangejamface@gmail.com
 
 <!---
